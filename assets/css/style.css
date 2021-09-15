@@ -198,7 +198,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #009245;
+  fill: #0054A6;
   width: 12px;
   height: 24px;
 }
@@ -336,7 +336,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #0054A6;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
@@ -462,7 +462,7 @@ button {
   position: relative;
   display: block;
   text-align: center;
-  color: #006837;
+  color: #0054A6;
   font-size: 30px;
   padding-bottom: 10px;
   margin-bottom: 35px;
